@@ -1,0 +1,54 @@
+Track Name,Artist Name,Genres,Popularity,Duration (ms),Explicit,Release Date,Time,Danceability,Energy,Loudness,Speechiness,Instrumentalness,Valence,Tempo,Track Count
+Jo Haal Dil Ka,Kumar Sanu,['Unknown'],56,332840,False,1999-04-30,22:20:04.218000,0.645,0.721,-9.9,0.0378,0.00241,0.709,148.906
+Murder In My Mind,Kordhell,['Unknown'],89,145000,True,2022-01-21,22:19:57.835000,0.712,0.972,-0.514,0.112,7.06e-05,0.568,119.966
+"Kiska Rasta Dekhe - From ""Joshila""",Kishore Kumar,['Unknown'],51,257920,False,1973-01-01,16:24:48.698000,0.463,0.333,-11.121,0.035,0,0.465,141.53
+Phoolon Ke Rang Se,Kishore Kumar,['Unknown'],58,306666,False,1970-01-28,15:22:20.017000,0.434,0.588,-10.327,0.0617,0,0.504,146.819
+Malang Sajna,Sachet Tandon,['Unknown'],86,161041,False,2022-12-19,04:17:13.050000,0.739,0.716,-4.964,0.037,0,0.871,113.943
+Le Gayi,Uttam Singh,['Unknown'],66,341812,False,1997-08-27,04:12:48.132000,0.831,0.737,-11.51,0.0497,0.000937,0.82,125.552
+"Bahon Ke Darmiyan - From ""Khamoshi - The Musical""",Alka Yagnik,['Unknown'],60,409026,False,1996-01-01,22:31:31.753000,0.596,0.437,-11.855,0.0337,1.52e-05,0.446,108.721
+"Kiska Rasta Dekhe - From ""Joshila""",Kishore Kumar,['Unknown'],51,257920,False,1973-01-01,19:06:28.951000,0.463,0.333,-11.121,0.035,0,0.465,141.53
+Me Without You,Havelin,['Unknown'],60,167498,False,2019-06-14,16:28:17.495000,0.571,0.572,-7.751,0.0344,0.000698,0.771,200.092
+Light Switch,Charlie Puth,['Unknown'],83,187703,False,2022-10-06,16:25:57.582000,0.689,0.627,-5.692,0.308,0.000321,0.905,184.008
+Gonna Be Okay - Acoustic,Brent Morgan,['Unknown'],58,195096,True,2022-07-29,15:49:41.461000,0.479,0.414,-9.54,0.0347,0,0.216,78.387
+way after forever,vaultboy,['Unknown'],61,173662,False,2023-03-10,15:49:39.840000,0.535,0.195,-10.293,0.0379,0,0.347,170.923
+hit the dirt,gavn!,['Unknown'],65,138461,False,2023-01-13,15:47:25.508000,0.44,0.369,-10.205,0.0423,0,0.531,103.991
+Kon Disa Mein,Varsha Singh Dhanoa,['Unknown'],68,60000,False,2023-04-13,15:43:49.057000,0.855,0.276,-9.436,0.227,0,0.891,113.427
+tere bina,Zaeden,['Unknown'],70,157245,False,2019-09-05,15:37:58.704000,0.889,0.341,-7.909,0.0424,3.7e-06,0.942,118.003
+Maula Mere Maula,Roop Kumar Rathod,['Unknown'],69,364329,False,2007-01-12,03:19:32.059000,0.549,0.737,-7.865,0.0386,0.00844,0.412,119.963
+Lag Ja Gale Se Phir,Lata Mangeshkar,['Unknown'],59,257613,False,1964-01-01,02:02:31.586000,0.312,0.452,-11.872,0.0391,0.000874,0.391,132.485
+Bade Achhe Lagte Hain,Amit Kumar,['Unknown'],63,312080,False,1976-03-15,01:58:13.306000,0.378,0.146,-15.412,0.0403,1.62e-05,0.178,138.649
+Ek Ajnabee Haseena Se,Kishore Kumar,['Unknown'],67,266145,False,1974-09-18,01:48:37.069000,0.331,0.551,-8.505,0.0379,0.511,0.664,97.18
+Bahon Mein Chale Aao - With Dialogues,Sanjeev Kumar,['Unknown'],27,272066,False,1972-01-01,01:39:05.791000,0.429,0.287,-11.717,0.0329,4.06e-05,0.532,73.297
+Meri Bheegi Bheegi Si,Kishore Kumar,['Unknown'],58,246893,False,1972-01-01,01:34:28.009000,0.441,0.428,-12.796,0.0329,7.86e-06,0.422,104.199
+Tum Aa Gaye Ho Noor Aa Gaya,Lata Mangeshkar,['Unknown'],58,252360,False,2022-02-18,01:30:15.834000,0.409,0.337,-11.369,0.0306,5.74e-06,0.476,109.973
+Zindagi Ka Safar,Kishore Kumar,['Unknown'],54,239533,False,1970-01-01,01:21:07.625000,0.369,0.403,-9.475,0.03,0.000982,0.351,106.66
+Teri Aankhon Ke Siva,Mohammed Rafi,['Unknown'],40,250129,False,1969-01-01,01:17:07.995000,0.304,0.423,-11.794,0.0324,2.62e-06,0.658,72.016
+Ehsan Tera Hoga Mujh Par,Mohammed Rafi,['Unknown'],47,206893,False,1961-01-01,01:12:56.999000,0.604,0.367,-9.562,0.0412,5.12e-06,0.616,89.76
+Are Re Are,Uttam Singh,['Unknown'],65,335386,False,1997-08-27,01:02:11.079000,0.689,0.674,-12.164,0.0396,0.000154,0.937,149.1
+Om Mangalam,RDB,['Unknown'],51,264226,False,2009-06-13,17:34:37.904000,0.788,0.814,-3.246,0.0379,0,0.688,112.975
+Chandra,Ajay-Atul,['Unknown'],51,315653,False,2022-04-26,17:33:12.980000,0.615,0.748,-8.788,0.0948,0.000288,0.505,135.071
+Dil Use Do Jo Jaan De De,Mohammed Rafi,['Unknown'],37,438960,False,1971-01-01,03:33:50.522000,0.504,0.642,-12.571,0.072,1.61e-05,0.571,103.828
+Gun Gun Guna,Ajay-Atul,['Unknown'],55,275386,False,2011-12-16,03:21:01.452000,0.666,0.86,-5.084,0.129,9.06e-05,0.538,95.087
+"Pal Pal Dil Ke Paas - From ""Blackmail""",Kishore Kumar,['Unknown'],59,328480,False,2013-01-01,23:03:48.648000,0.484,0.464,-7.529,0.0356,8.28e-06,0.502,120.511
+Pichle Saat Dinon Mein (Album Version),Farhan Akhtar,['Unknown'],52,187942,False,2010-02-16,22:58:19.844000,0.717,0.772,-5.852,0.0522,1.05e-06,0.792,106.077
+hit the dirt,gavn!,['Unknown'],65,138461,False,2023-01-13,22:41:31.239000,0.44,0.369,-10.205,0.0423,0,0.531,103.991
+everything everywhere always,elijah woods,['Unknown'],69,147847,False,2022-08-19,22:39:21.965000,0.402,0.38,-10.233,0.045,2.58e-06,0.187,143.632
+Forever,Lewis Capaldi,['Unknown'],79,210863,False,2019-05-17,22:36:54.055000,0.646,0.355,-7.119,0.0263,0,0.364,84.988
+Rewrite The Stars,Zac Efron,['Unknown'],76,217440,False,2017-11-17,22:33:22.567000,0.684,0.619,-7.005,0.0386,0,0.284,125.046
+Na Ja,Pav Dharia,['Unknown'],76,208000,False,2017-02-21,22:29:44.988000,0.772,0.649,-6.411,0.143,0,0.824,90.072
+"Ye Go Ye Ye Maina - From ""Jatra""",Ajay,['Unknown'],52,323184,False,2014-10-29,23:08:55.238000,0.446,0.837,-6.39,0.0659,1.21e-05,0.73,120.035
+Mujhse Shaadi Karogi,Sonu Nigam,['Unknown'],64,326226,False,2004-05-31,20:18:51.154000,0.766,0.942,-6.757,0.0439,0.000202,0.797,127.033
+Lalala - Ilkan Gunuc Remix,Y2K,['Unknown'],63,178407,True,2019-10-28,20:11:04.333000,0.774,0.831,-4.672,0.0514,2.21e-06,0.333,124.035
+"Ek Dil Ek Jaan (From ""Padmaavat"")",Shivam Pathak,['Unknown'],65,219869,False,2017-11-11,20:03:42.047000,0.528,0.664,-7.262,0.0377,0,0.109,97.893
+Pinga,Shreya Ghoshal,['Unknown'],52,255169,False,2015-11-25,20:00:02.134000,0.648,0.84,-3.754,0.164,0,0.824,95.211
+Jab Deep Jale Aana,K. J. Yesudas,['Unknown'],50,329276,False,1976-12-20,19:52:43.311000,0.438,0.564,-6.524,0.036,2.2e-05,0.49,83.961
+Chiraiyya,Swanand Kirkire,['Unknown'],50,253074,False,2012-05-08,19:28:05.020000,0.659,0.315,-10.503,0.0286,0,0.342,119.79
+O Meri Zohrajabeen,Himesh Reshammiya,['Unknown'],55,323080,False,2006-05-13,13:50:24.524000,0.753,0.987,-6.812,0.198,2.47e-06,0.718,137.039
+Senorita,Farhan Akhtar,['Unknown'],68,229575,False,2011-06-06,12:37:32.824000,0.701,0.681,-6.442,0.0466,0,0.81,122.539
+Baharla Ha Madhumas,Ajay-Atul,['Unknown'],62,223831,False,2023-02-27,23:55:39.420000,0.746,0.378,-9.936,0.0627,0.000352,0.589,134.952
+Kon Disa Mein,Varsha Singh Dhanoa,['Unknown'],68,60000,False,2023-04-13,23:54:24.439000,0.855,0.276,-9.436,0.227,0,0.891,113.427
+Gun Gun Guna,Ajay-Atul,['Unknown'],55,275386,False,2011-12-16,23:53:24.446000,0.666,0.86,-5.084,0.129,9.06e-05,0.538,95.087
+Malang Sajna,Sachet Tandon,['Unknown'],86,161041,False,2022-12-19,23:48:50.040000,0.739,0.716,-4.964,0.037,0,0.871,113.943
+Maan Meri Jaan,King,['Unknown'],87,194653,False,2022-10-12,13:17:11.962000,0.698,0.505,-8.242,0.0356,0,0.396,95.868
+Someone You Loved,Lewis Capaldi,['Unknown'],92,182160,False,2019-05-17,00:14:00.945000,0.501,0.405,-5.679,0.0319,0,0.446,109.891
+Lalala - Ilkan Gunuc Remix,Y2K,['Unknown'],63,178407,True,2019-10-28,22:20:12.496000,0.774,0.831,-4.672,0.0514,2.21e-06,0.333,124.035
